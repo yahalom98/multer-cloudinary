@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-tutorial",
+  "version": "1.0.0",
+  "description": "MongoDB and Mongoose tutorial with examples",
+  "main": "shop.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node shop.js",
+    "queries": "node advanced_queries.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.0"
+  }
+} 
